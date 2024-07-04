@@ -14,3 +14,4 @@
     - [dynamicKey]: "abc"
   - rest and spread Operators
   - Destructuring
+  - default values

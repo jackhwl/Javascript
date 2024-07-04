@@ -8,3 +8,4 @@
     - var: function scope
     - let, const block scope
   - class Syntax
+  - template string

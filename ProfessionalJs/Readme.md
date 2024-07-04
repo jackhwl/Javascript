@@ -17,3 +17,7 @@
   - default values
 3. Part 3 language enhancement
   - globalThis
+  - trailing commas
+  - optional catch binding
+  - function toString
+  - object rest and spread operators

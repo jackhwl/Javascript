@@ -10,3 +10,5 @@
   - class Syntax
   - template string
   - arrow Functions
+  - enhanced Object Literals
+    - [dynamicKey]: "abc"

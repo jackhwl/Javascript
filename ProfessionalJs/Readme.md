@@ -22,3 +22,4 @@
   - function toString
   - object rest and spread operators
   - Operators: Nullish Coalescing
+  - Operators: Optional Chaining

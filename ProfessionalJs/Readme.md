@@ -16,3 +16,4 @@
   - Destructuring
   - default values
 3. Part 3 language enhancement
+  - globalThis

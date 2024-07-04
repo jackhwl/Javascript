@@ -27,3 +27,5 @@
   - Operators: Exponentiation
   - Classes: Private Variables
   - Classes: Fields and Private Methods
+  - Static Classes: Fields and Methods
+  - Object Management

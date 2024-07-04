@@ -23,3 +23,7 @@
   - object rest and spread operators
   - Operators: Nullish Coalescing
   - Operators: Optional Chaining
+  - Operators: Logical Assignment
+  - Operators: Exponentiation
+  - Classes: Private Variables
+  - Classes: Fields and Private Methods

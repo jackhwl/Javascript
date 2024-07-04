@@ -7,3 +7,4 @@
   - scoped variable
     - var: function scope
     - let, const block scope
+  - class Syntax

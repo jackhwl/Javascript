@@ -3,3 +3,7 @@
   - https://caniuse.com/?search=ecmascript
 2. Part 2
   - modules
+  - https://firtman.github.io/projs/
+  - scoped variable
+    - var: function scope
+    - let, const block scope

@@ -9,3 +9,4 @@
     - let, const block scope
   - class Syntax
   - template string
+  - arrow Functions

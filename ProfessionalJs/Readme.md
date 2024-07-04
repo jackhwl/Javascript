@@ -12,3 +12,4 @@
   - arrow Functions
   - enhanced Object Literals
     - [dynamicKey]: "abc"
+  - rest and spread Operators

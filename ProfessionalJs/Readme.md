@@ -21,3 +21,4 @@
   - optional catch binding
   - function toString
   - object rest and spread operators
+  - Operators: Nullish Coalescing

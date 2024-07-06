@@ -48,4 +48,5 @@
     - Array: At()
     - Array: Stable Sort
     - Array： Change by Copy
-
+5. Part 5 Asynchronous Programming
+  - ES6: Promises Recap

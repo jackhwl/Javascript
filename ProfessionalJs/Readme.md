@@ -35,3 +35,4 @@
   - String: Trimming
   - String: matchAll
   - Numbers: BigInt
+  - Numbers: Other Additions

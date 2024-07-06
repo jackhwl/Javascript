@@ -34,3 +34,4 @@
   - String: Padding
   - String: Trimming
   - String: matchAll
+  - Numbers: BigInt

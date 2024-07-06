@@ -53,4 +53,4 @@
   - Async/Await Syntax
   - Promise Improvements
   - Asynchronous Iteration
-  
+  - Top-level await

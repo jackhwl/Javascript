@@ -54,3 +54,5 @@
   - Promise Improvements
   - Asynchronous Iteration
   - Top-level await
+6. Part 6 Advanced Techniques
+  - Proper Tail Calls

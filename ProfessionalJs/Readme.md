@@ -50,3 +50,4 @@
     - Array： Change by Copy
 5. Part 5 Asynchronous Programming
   - ES6: Promises Recap
+  - Async/Await Syntax

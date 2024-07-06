@@ -43,3 +43,4 @@
     - ES6 Recap: Iterators and for..of
     - ES6 Recap: Generators
     - Array: Includes
+    - Array: Flat

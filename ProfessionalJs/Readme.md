@@ -32,3 +32,4 @@
   - Object Management
   - String Methods 
   - String: Padding
+  - String: Trimming

@@ -33,3 +33,4 @@
   - String Methods 
   - String: Padding
   - String: Trimming
+  - String: matchAll

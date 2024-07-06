@@ -47,4 +47,5 @@
     - Array: Finding
     - Array: At()
     - Array: Stable Sort
-    
+    - Array： Change by Copy
+

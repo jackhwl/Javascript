@@ -40,3 +40,4 @@
     - ES6 Recap: New Collections: Set, WeakSet, Map, 
     - ES6 Recap: Arrays
     - ES6 Recap: Typed Arrays
+    - ES6 Recap: Iterators and for..of

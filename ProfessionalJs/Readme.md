@@ -46,4 +46,5 @@
     - Array: Flat
     - Array: Finding
     - Array: At()
+    - Array: Stable Sort
     

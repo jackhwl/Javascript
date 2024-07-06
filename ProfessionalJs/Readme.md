@@ -41,3 +41,4 @@
     - ES6 Recap: Arrays
     - ES6 Recap: Typed Arrays
     - ES6 Recap: Iterators and for..of
+    - ES6 Recap: Generators

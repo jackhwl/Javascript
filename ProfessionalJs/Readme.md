@@ -44,3 +44,4 @@
     - ES6 Recap: Generators
     - Array: Includes
     - Array: Flat
+    - Array: Finding

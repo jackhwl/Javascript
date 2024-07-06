@@ -45,3 +45,5 @@
     - Array: Includes
     - Array: Flat
     - Array: Finding
+    - Array: At()
+    

@@ -36,3 +36,5 @@
   - String: matchAll
   - Numbers: BigInt
   - Numbers: Other Additions
+  - Array and Collection Enhancemants
+    - ES6 Recap: New Collections: Set, WeakSet, Map, 

@@ -52,3 +52,5 @@
   - ES6: Promises Recap
   - Async/Await Syntax
   - Promise Improvements
+  - Asynchronous Iteration
+  

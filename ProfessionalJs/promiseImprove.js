@@ -7,6 +7,10 @@ const promises = [
   ];
   Promise.allSettled(promises).then(results => console.log(results));
   
+  function getCountries() {
+    return new Promise(resolve => resolve(["USA", "Canada", "Mexico"]));
+  }
+  
   /*
   Use Promise.any() to get the first fulfilled Promise
   */

@@ -31,3 +31,4 @@
   - Static Classes: Fields and Methods
   - Object Management
   - String Methods 
+  - String: Padding

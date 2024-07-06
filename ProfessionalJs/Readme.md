@@ -38,3 +38,4 @@
   - Numbers: Other Additions
   - Array and Collection Enhancemants
     - ES6 Recap: New Collections: Set, WeakSet, Map, 
+    - ES6 Recap: Arrays

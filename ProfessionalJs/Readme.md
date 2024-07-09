@@ -57,3 +57,5 @@
 6. Part 6 Advanced Techniques
   - Proper Tail Calls
   - Proxies and Reflect API
+  - Symbol
+  

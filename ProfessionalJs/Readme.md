@@ -60,3 +60,4 @@
   - Symbol
   - Error cause
   - Hashbang Grammar
+  - WeakRefs and FinalizationRegistry

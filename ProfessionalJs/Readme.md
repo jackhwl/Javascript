@@ -61,3 +61,4 @@
   - Error cause
   - Hashbang Grammar
   - WeakRefs and FinalizationRegistry
+  - Import Metadata

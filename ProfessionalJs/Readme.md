@@ -62,3 +62,4 @@
   - Hashbang Grammar
   - WeakRefs and FinalizationRegistry
   - Import Metadata
+  - Tagged Templates

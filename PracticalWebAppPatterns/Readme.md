@@ -29,3 +29,8 @@
             }
          }
          ```
+     - Structural Design Patterns
+       - Decorator: Wrap an object with another object that adds the desired behavior.
+         - Adding logging, validation, or caching to method calls.
+         - Extending user interface components with additional features.
+         - Wrapping API responses to format or process data before passing it on.

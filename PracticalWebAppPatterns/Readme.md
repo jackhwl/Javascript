@@ -34,3 +34,7 @@
          - Adding logging, validation, or caching to method calls.
          - Extending user interface components with additional features.
          - Wrapping API responses to format or process data before passing it on.
+       - Adapter: allow incompatible interfaces to work together
+         - Integrating third-party libraries with different interfaces into your application.
+         - Adapting legacy code to work with new systems or APIs
+         - Converting data formats.

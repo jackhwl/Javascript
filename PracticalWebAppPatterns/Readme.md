@@ -44,3 +44,8 @@
        - Value Object: Represent a value that is immutable and distinct from other objects based on its properties rather than its identity.
          - Create a class where instances are considered equal if all their properties are equal and ensure the object is immutable.
          - Representing complex data types like money, coordinates, or dates.
+     - Behavioral Design Patterns
+       - Observer
+         - Event handlers
+         - Real-time notifications
+         - UI updates

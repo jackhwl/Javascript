@@ -38,3 +38,7 @@
          - Integrating third-party libraries with different interfaces into your application.
          - Adapting legacy code to work with new systems or APIs
          - Converting data formats.
+       - Mixins: Share functionality between classes without using inheritance.
+         - Create a class containing methods that can be used by other classes and apply it to multiple classes.
+         - Integrating third-party libraries with different interfaces into your application.
+

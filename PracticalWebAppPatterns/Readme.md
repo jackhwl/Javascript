@@ -41,4 +41,6 @@
        - Mixins: Share functionality between classes without using inheritance.
          - Create a class containing methods that can be used by other classes and apply it to multiple classes.
          - Integrating third-party libraries with different interfaces into your application.
-
+       - Value Object: Represent a value that is immutable and distinct from other objects based on its properties rather than its identity.
+         - Create a class where instances are considered equal if all their properties are equal and ensure the object is immutable.
+         - Representing complex data types like money, coordinates, or dates.

@@ -52,3 +52,9 @@
        - Template Method
          - Data Processing
          - Form Validation
+       - Memento
+         - Capture and externalize an object's internal state so that it can be restored later, without violation encapsulation
+         - Create an object that stores the state of the original object and provide methods to save and restore the state.
+         - Undo/Redo functionality
+         - Saving a game or app session
+         - Time-travel debugging

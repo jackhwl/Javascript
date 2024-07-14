@@ -58,3 +58,5 @@
          - Undo/Redo functionality
          - Saving a game or app session
          - Time-travel debugging
+       - Command
+         - Manage the actions of your app (such as Add, Delete, print, save, load)

@@ -49,3 +49,6 @@
          - Event handlers
          - Real-time notifications
          - UI updates
+       - Template Method
+         - Data Processing
+         - Form Validation

@@ -62,3 +62,4 @@
          - Manage the actions of your app (such as Add, Delete, print, save, load)
 2. Part 2
   - Todo Masters
+    - add mixin

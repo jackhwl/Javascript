@@ -63,3 +63,4 @@
 2. Part 2
   - Todo Masters
     - add mixin
+    - add TodoItem class

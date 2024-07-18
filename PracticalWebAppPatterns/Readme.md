@@ -64,3 +64,4 @@
   - Todo Masters
     - add mixin
     - add TodoItem class
+      - turn it to singleton

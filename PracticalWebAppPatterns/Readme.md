@@ -65,3 +65,4 @@
     - add mixin
     - add TodoItem class
       - turn it to singleton
+      - bring in observer

@@ -1,7 +1,22 @@
+import { TodoList } from "./webapp/classes.js"
 import { Command, Commands, CommandExecutor } from "./webapp/command.js"
 
 globalThis.DOM = {}
 const DOM = globalThis.DOM
+
+function renderList() {
+    DOM.todoList.innerHTML = "";
+    const list = TodoList.getInstance();
+    for (let todo of list.items) {
+        const li = document.createElement("li");
+        li.classList.add("todo-item");
+        li.innerHTML = `
+            ${todo.text} <button class='delete-btn'>Delete</button>
+        `;
+        li.dataset.text = todo.text;
+        DOM.todoList.appendChild(li);
+    }
+}
 
 document.addEventListener('DOMContentLoaded', () => {
     DOM.todoList = document.getElementById("todo-list")
@@ -18,4 +33,6 @@ document.addEventListener('DOMContentLoaded', () => {
             
         }
     })
+
+    TodoList.getInstance().addObserver(renderList)
 })

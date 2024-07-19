@@ -69,3 +69,4 @@
 3. Part 3
   - Command
   - fix typo
+  - add todo item

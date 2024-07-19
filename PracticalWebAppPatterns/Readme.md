@@ -66,3 +66,5 @@
     - add TodoItem class
       - turn it to singleton
       - bring in observer
+3. Part 3
+  - Command

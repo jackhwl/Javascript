@@ -47,7 +47,7 @@ class TodoList {
     }
     find(todo_text) {
         const array = Array.from(this.#data)
-        return this.#data.filter(t => t.text == todo_text);
+        return array.find(t => t.text == todo_text);
     }
     replaceList(list) {
         this.#data = list;

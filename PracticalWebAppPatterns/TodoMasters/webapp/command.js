@@ -1,6 +1,6 @@
-import { TodoList, TodoItem } from "./todolist.js";
+import { TodoList, TodoItem } from "./classes.js";
 
-class Command {
+export class Command {
     name;
     args;
     constructor(name, args) {
@@ -9,12 +9,12 @@ class Command {
     }
 }
 
-const Commands = {
+export const Commands = {
     ADD: "add",
     DELETE: "delete"
 }
 
-const CommandExecutor = {
+export const CommandExecutor = {
     execute(command) {
         const todoList = TodoList.getInstance();
         switch (command.name) {

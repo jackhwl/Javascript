@@ -1,15 +1,15 @@
 import { observerMixin } from "./mixin.js";
 
-class TodoItem {
-    constructor(test) {
+export class TodoItem {
+    constructor(text) {
         this.text = text;
     }
     equals(other) {     // Value Object pattern
-        return othis.text == other.text;
+        return this.text == other.text;
     }
 }
 
-class TodoList {
+export class TodoList {
     // Data
     #data = new Set();
     get items() { return this.#data; }
@@ -33,7 +33,7 @@ class TodoList {
     // List behavior
     add(item) {
         const array = Array.from(this.#data)
-        const todoExists = this.#data.filter(t => t.equals(item)).length > 0;
+        const todoExists = array.filter(t => t.equals(item)).length > 0;
         if (!todoExists) {
             this.#data.add(item);
             this.notify();

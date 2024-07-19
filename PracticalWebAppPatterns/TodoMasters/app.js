@@ -1,3 +1,5 @@
+import { Command, Commands, CommandExecutor } from "./webapp/command.js"
+
 globalThis.DOM = {}
 const DOM = globalThis.DOM
 
@@ -7,7 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
     DOM.todoInput = document.getElementById("todo-input")
 
     DOM.addBtn.addEventListener('click', event => {
-
+        const cmd = new Command(Commands.ADD)
+        CommandExecutor.execute(cmd)
     })
 
     DOM.todoList.addEventListener('click', event => {

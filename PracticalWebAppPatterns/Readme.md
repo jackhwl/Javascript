@@ -72,3 +72,4 @@
   - add todo item
   - delete todo item
   - persist data to local storage
+  - keyboard shortcut key add todo item

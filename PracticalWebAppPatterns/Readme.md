@@ -71,3 +71,4 @@
   - fix typo
   - add todo item
   - delete todo item
+  - persist data to local storage

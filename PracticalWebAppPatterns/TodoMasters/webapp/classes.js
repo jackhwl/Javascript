@@ -41,7 +41,7 @@ export class TodoList {
     }
     delete(todo_text){
         const array = Array.from(this.#data)
-        const todoToDelete = this.#data.filter(t => t.text == todo_text)[0];
+        const todoToDelete = array.filter(t => t.text == todo_text)[0];
         this.#data.delete(todoToDelete);
         this.notify();
     }

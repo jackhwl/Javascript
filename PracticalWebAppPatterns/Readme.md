@@ -70,3 +70,4 @@
   - Command
   - fix typo
   - add todo item
+  - delete todo item

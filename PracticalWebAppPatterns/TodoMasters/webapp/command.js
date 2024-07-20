@@ -1,4 +1,5 @@
 import { TodoList, TodoItem } from "./classes.js";
+import { TodoHistory } from "./memento.js";
 
 export class Command {
     name;
@@ -11,7 +12,8 @@ export class Command {
 
 export const Commands = {
     ADD: "add",
-    DELETE: "delete"
+    DELETE: "delete",
+    UNDO: "undo"
 }
 
 export const CommandExecutor = {
@@ -31,6 +33,12 @@ export const CommandExecutor = {
             case Commands.DELETE:
                 const [textToDelete] = command.args;
                 todoList.delete(textToDelete);
+                break;
+            case Commands.UNDO:
+                const previousList = TodoHistory.pop();
+                if (previousList) {
+                    todoList.replaceList(previousList);
+                }
                 break;
             default:
                 throw new Error(`Unknown command: ${command.name}`);

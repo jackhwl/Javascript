@@ -74,3 +74,5 @@
   - persist data to local storage
   - keyboard shortcut key add todo item
   - add undo function
+4. Part 4
+  - single page application

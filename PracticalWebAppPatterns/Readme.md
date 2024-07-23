@@ -78,3 +78,4 @@
   - single page application
   - Lazy Load
   - View Transitions
+  - HTML Templates with Interpolation

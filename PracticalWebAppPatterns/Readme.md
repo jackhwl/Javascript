@@ -80,3 +80,4 @@
   - View Transitions
   - HTML Templates with Interpolation
   - Routing Metadata
+  - Lab

@@ -8,7 +8,12 @@
   - Finding Elements in the DOM
     - One HTML Element: HTMLElement
       - getElementById
-      - querySelector
+      - querySelector: first element of the list
+        - document.querySelector("section>header a")
       - null
-    - Live HTML Element Collection: HTMLCollection
+    - Live HTML Element Collection: HTMLCollection: don't have all the modern Array interface, such as filter, map, reduce or forEach, but you can use Array.from(collection) to do it.
+      - getElementsByTagName
+      - getElementsByClassName
+      - getElementsByName
     - Static Element Collection: NodeList
+      - querySelectorAll()

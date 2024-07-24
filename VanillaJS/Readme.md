@@ -27,5 +27,7 @@
   - Modifying the DOM
     - textContent
     - innerHTML
-    
+## The DOM
+  - Course Project Overview
+  - Scoping querySelector
     

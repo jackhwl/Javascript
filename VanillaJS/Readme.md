@@ -17,3 +17,10 @@
       - getElementsByName
     - Static Element Collection: NodeList
       - querySelectorAll()
+    - Actions:
+      - Read and change attributes' values
+      - Read and change styles
+      - Hook event listeners
+      - Add, remove or move children elements
+      - Read and change its contents
+      - More APIs        

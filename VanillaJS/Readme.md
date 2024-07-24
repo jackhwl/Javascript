@@ -24,3 +24,8 @@
       - Add, remove or move children elements
       - Read and change its contents
       - More APIs        
+  - Modifying the DOM
+    - textContent
+    - innerHTML
+    
+    

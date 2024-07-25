@@ -31,4 +31,4 @@
   - Course Project Overview
   - Scoping querySelector
   - Adding Scripts async & defer
-    
+  - Main Script Setup

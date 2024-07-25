@@ -48,3 +48,4 @@
     HTMLElement.prototype.$ = function(s){ return this.querySelector(s); }
     HTMLElement.prototype.$$ = function(s){ return this.querySelectorAll(s); }
   ```
+  - Fetching Data

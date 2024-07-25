@@ -32,3 +32,9 @@
   - Scoping querySelector
   - Adding Scripts async & defer
   - Main Script Setup
+  - Event Binding & Handlers
+    - onevent
+    - addEventListener
+    - removeEventListener
+    - dispatchEvent
+  - Advanced Event Handling

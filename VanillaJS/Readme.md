@@ -30,4 +30,5 @@
 ## The DOM
   - Course Project Overview
   - Scoping querySelector
+  - Adding Scripts async & defer
     

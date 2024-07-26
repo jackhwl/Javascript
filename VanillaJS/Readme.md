@@ -52,3 +52,4 @@
   - Loading Menu Data
 ## Routing
   - Browser Routing & History API
+  - SPA Router from Scratch

@@ -50,3 +50,5 @@
   ```
   - Fetching Data
   - Loading Menu Data
+## Routing
+  - Browser Routing & History API

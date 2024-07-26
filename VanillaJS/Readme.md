@@ -53,3 +53,5 @@
 ## Routing
   - Browser Routing & History API
   - SPA Router from Scratch
+  - Router Q&A
+  - Changing DOM Element

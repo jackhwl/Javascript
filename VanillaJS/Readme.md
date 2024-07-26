@@ -49,3 +49,4 @@
     HTMLElement.prototype.$$ = function(s){ return this.querySelectorAll(s); }
   ```
   - Fetching Data
+  - Loading Menu Data

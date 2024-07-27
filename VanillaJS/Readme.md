@@ -69,3 +69,4 @@
   - Creating Web Components
   - Loading Templates
   - Applying a Shadow DOM
+  - Styling Web Components

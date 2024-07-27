@@ -68,3 +68,4 @@
   - Declarative Shadow DOM
   - Creating Web Components
   - Loading Templates
+  - Applying a Shadow DOM

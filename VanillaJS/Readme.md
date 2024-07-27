@@ -65,3 +65,4 @@
         this.appendChild(content)
     ```
   - Shadow DOM
+  - Declarative Shadow DOM

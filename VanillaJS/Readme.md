@@ -58,3 +58,9 @@
   - Dynamic Routing
 ## Web Components
   - Overview & Custom Elements
+  - HTML Templates
+    ```
+        const template = document.getElementById('td_dropdown')
+        const content = template.content.cloneNode(true)
+        this.appendChild(content)
+    ```

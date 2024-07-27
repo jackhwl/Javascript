@@ -64,3 +64,4 @@
         const content = template.content.cloneNode(true)
         this.appendChild(content)
     ```
+  - Shadow DOM

@@ -55,3 +55,4 @@
   - SPA Router from Scratch
   - Router Q&A
   - Changing DOM Element
+  - Dynamic Routing

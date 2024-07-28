@@ -70,3 +70,5 @@
   - Loading Templates
   - Applying a Shadow DOM
   - Styling Web Components
+## Reative Programming with Proxies
+  - Creating a Proxy

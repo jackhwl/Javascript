@@ -72,3 +72,4 @@
   - Styling Web Components
 ## Reative Programming with Proxies
   - Creating a Proxy
+  - Rendering the Menu

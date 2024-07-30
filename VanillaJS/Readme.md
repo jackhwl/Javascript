@@ -74,3 +74,4 @@
   - Creating a Proxy
   - Rendering the Menu
   - ProductItem Component
+  - DetailsPage Component

@@ -75,3 +75,4 @@
   - Rendering the Menu
   - ProductItem Component
   - DetailsPage Component
+  - Adding Items to the Order

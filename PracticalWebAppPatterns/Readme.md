@@ -80,4 +80,5 @@
   - View Transitions
   - HTML Templates with Interpolation
   - Routing Metadata
-  - Lab
+  - Lab 
+   - Lazy loading order page and cart item page

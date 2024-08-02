@@ -16,7 +16,7 @@ const Router = {
         // Check the initial URL
         Router.go(location.pathname)
     },
-    go: (route, addToHistory = true) => {
+    go: async (route, addToHistory = true) => {
         console.log(`Going to ${route}`);
 
         if (addToHistory) {
@@ -28,6 +28,7 @@ const Router = {
                 pageElement = document.createElement("menu-page");
                 break;
             case "/order":
+                await import('../components/OrderPage.js');
                 pageElement = document.createElement("order-page");
                 break;
             default:

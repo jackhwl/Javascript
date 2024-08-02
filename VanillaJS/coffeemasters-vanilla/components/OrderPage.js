@@ -1,3 +1,5 @@
+import CartItem from './CartItem.js';
+
 export class OrderPage extends HTMLElement {
 
     #user = {

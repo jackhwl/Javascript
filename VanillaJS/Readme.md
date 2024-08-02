@@ -77,3 +77,4 @@
   - DetailsPage Component
   - Adding Items to the Order
   - Displaying Items in the Cart
+  - Binding Form Data

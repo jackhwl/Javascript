@@ -82,3 +82,4 @@
   - Routing Metadata
   - Lab 
    - Lazy loading order page and cart item page
+   - Adding new transitions

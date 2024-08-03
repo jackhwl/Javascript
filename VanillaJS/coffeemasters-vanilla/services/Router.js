@@ -40,12 +40,22 @@ const Router = {
                 break;
         }
         if (pageElement) {
-            //document.querySelector("main").children[0].remove();
-            const main = document.querySelector("main");
-            main.innerHTML = "";
-            main.appendChild(pageElement)
+            function changePage() {
+                let currentPage = document.querySelector("main").firstElementChild;
+                if (currentPage) {
+                    currentPage.remove();
+                    document.querySelector("main").appendChild(pageElement);
+                } else {
+                    document.querySelector("main").appendChild(pageElement);
+                }
+            }
+            if (document.startViewTransition) {
+                document.startViewTransition(() => changePage())
+            } else {
+                changePage()
+            }
+
             window.scrollX = 0;
-            window.scrollY = 0;
         }
     }
 }

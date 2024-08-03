@@ -16,6 +16,10 @@ const Router = {
         // Check the initial URL
         Router.go(location.pathname)
     },
+    setMetadata(title, color) {
+        document.title = `${title} - Coffee Masters`;
+        document.querySelector("meta[name=theme-color]").content = color;
+    },
     go: async (route, addToHistory = true) => {
         
         if (addToHistory) {
@@ -25,13 +29,16 @@ const Router = {
         switch (route) {
             case "/":
                 pageElement = document.createElement("menu-page");
+                Router.setMetadata("Menu", "#43281C");
                 break;
             case "/order":
                 await import('../components/OrderPage.js');
                 pageElement = document.createElement("order-page");
+                Router.setMetadata("Order", "green");
                 break;
             default:
                 if (route.startsWith("/product-")) {
+                    Router.setMetadata("Details", "blue");
                     pageElement = document.createElement("details-page");
                     const paramId = route.substring(route.lastIndexOf("-") + 1);
                     pageElement.dataset.productId = paramId;

@@ -86,3 +86,4 @@
      - avoid header change
      - change shadow dom style through part
    - interpolate template
+   - change meta data - title, theme color

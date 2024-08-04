@@ -87,3 +87,10 @@
      - change shadow dom style through part
    - interpolate template
    - change meta data - title, theme color
+5. Part 5
+  - multiple page application patterns
+  - view transitions for MPA
+  - prefetch
+  - HTML Templates for MPA
+  - Lab
+  

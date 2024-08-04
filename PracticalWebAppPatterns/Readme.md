@@ -95,4 +95,14 @@
   - Lab
     - view transitions for MPA
     - prefetch & prerender
+    - Data and State Management Patterns
+      - Promisify Data
+      ```
+      function getImportantData() {
+        return data;
+      }
+      function getImportantData() {
+        return Promise.resolve(data);
+      }
+      ```
 

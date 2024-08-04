@@ -105,4 +105,14 @@
         return Promise.resolve(data);
       }
       ```
+      - Flux
+      - Lazy Sync
+      - Proxy
+      - Middleware
+      - Web App Classic Patterns
+        - Progressive Web Apps
+        - Responsive Web Design
+        - Mobile First
+        - Offline First
+        
 

@@ -114,5 +114,7 @@
         - Responsive Web Design
         - Mobile First
         - Offline First
-        
+      - Progressive Enhancement
+      - HTML Streaming
+      - Virtual DOM
 

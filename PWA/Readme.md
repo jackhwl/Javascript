@@ -10,3 +10,10 @@
     - watchOS
     - tvOS
     - Andrioid TV
+  - Components of a PWA
+    - PWA Levels
+      - Default
+      - Basic Metadata provided
+      - PWA Criteria Approved
+      - Full offline experience
+      - PWA Criteria: Defined by the browser. If passed, there are hints, banners, dialogs or bars explaining to the user that the current web app is installable and inviting them to install it.

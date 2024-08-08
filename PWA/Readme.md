@@ -19,3 +19,4 @@
       - PWA Criteria: Defined by the browser. If passed, there are hints, banners, dialogs or bars explaining to the user that the current web app is installable and inviting them to install it.
   - Lab
     - The Web App Manifest: It's a JSON file that defines all the meta data that will help the browser and the OS to install the app and have integration into the operating system.
+    - meta viewport after 2007

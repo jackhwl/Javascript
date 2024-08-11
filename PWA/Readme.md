@@ -25,3 +25,18 @@
     <link rel="manifest" href="web.manifest">
     ```
     - micro-app
+    ```
+    {
+      "id": "/",
+      "name": "My PWA",
+      "short_name": "PWA",
+      "display": "standalone",
+      "scope": "/",
+      "start_url": "/?pwa",
+      "theme_color": "orange",
+      "background_color": "white"
+    }
+    ```
+    - origin: protocol+host+port
+    - id: "/soda/267"
+    - start_url

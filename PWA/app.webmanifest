@@ -1,0 +1,10 @@
+{
+    "id": "/",
+    "start_url": "/?pwa",
+    "name": "My PWA",
+    "short_name": "PWA",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "orange",
+    "background_color": "white"
+  }

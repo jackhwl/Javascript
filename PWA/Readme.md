@@ -40,3 +40,4 @@
     - origin: protocol+host+port
     - id: "/soda/267"
     - start_url
+    - link manifest to index.html

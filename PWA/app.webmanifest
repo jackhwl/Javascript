@@ -1,10 +1,8 @@
 {
     "id": "/",
-    "start_url": "/?pwa",
-    "name": "My PWA",
-    "short_name": "PWA",
-    "display": "standalone",
+    "start_url": "/",
     "scope": "/",
-    "theme_color": "orange",
-    "background_color": "white"
+    "name": "CodepadMasters, the best notepad for your device",
+    "short_name": "CodepadM",
+    "display": "standalone"
   }

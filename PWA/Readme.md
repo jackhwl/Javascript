@@ -41,3 +41,7 @@
     - id: "/soda/267"
     - start_url
     - link manifest to index.html
+3. Part 3
+  - Display modes
+    - browser
+    - standalone

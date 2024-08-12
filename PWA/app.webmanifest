@@ -4,5 +4,7 @@
     "scope": "/",
     "name": "CodepadMasters, the best notepad for your device",
     "short_name": "CodepadM",
-    "display": "standalone"
+    "display": "standalone",
+    "theme_color": "#55887c",
+    "background_color": "white"
   }

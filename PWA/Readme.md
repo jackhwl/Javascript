@@ -45,3 +45,8 @@
   - Display modes
     - browser
     - standalone
+    - fullscreen
+    - minimal-ui  fall back to browser
+    - On a separate spec
+      - tabbed
+      - window-controls-overlay

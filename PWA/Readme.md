@@ -50,3 +50,4 @@
     - On a separate spec
       - tabbed
       - window-controls-overlay
+    - web.wurfl.io detect device

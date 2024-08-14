@@ -51,3 +51,5 @@
       - tabbed
       - window-controls-overlay
     - web.wurfl.io detect device
+    - navigator.standalone return true if it's on iphone
+  - Testing and Debugging

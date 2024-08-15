@@ -53,3 +53,8 @@
     - web.wurfl.io detect device
     - navigator.standalone return true if it's on iphone
   - Testing and Debugging
+  - Standalone User Experience
+  - Shortcut Icons on Andrioid
+  - WebAPK Icons on Android
+  - Icons in the Web App Manifest
+    - 192x192, 512x512, 1024x1024

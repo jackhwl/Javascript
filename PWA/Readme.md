@@ -58,3 +58,7 @@
   - WebAPK Icons on Android
   - Icons in the Web App Manifest
     - 192x192, 512x512, 1024x1024
+    - Maskable.app
+    - 180x180 is the recommended size
+    <link rel="apple-touch-icon" href="ios_icon.png">
+    <link rel="apple-touch-icon" href="ios_icon.png" sizes="120x120">

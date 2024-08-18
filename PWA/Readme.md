@@ -66,4 +66,5 @@
   - Splash Screen
     - Android automatically does that
     - iOs using pwa compact
-    
+  - Making the App Offline-capable
+    - Service Worker: A javascript file running in its own thread that will act as a middleware ooffering a local installed web server or web proxy for your PWA, including resources and API calls.

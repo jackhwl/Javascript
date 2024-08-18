@@ -68,3 +68,4 @@
     - iOs using pwa compact
   - Making the App Offline-capable
     - Service Worker: A javascript file running in its own thread that will act as a middleware ooffering a local installed web server or web proxy for your PWA, including resources and API calls.
+    - Scopes: An origin (host and port) and a path https://mydomain.com or https://mydomain.com/myapp

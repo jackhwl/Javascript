@@ -62,3 +62,8 @@
     - 180x180 is the recommended size
     <link rel="apple-touch-icon" href="ios_icon.png">
     <link rel="apple-touch-icon" href="ios_icon.png" sizes="120x120">
+4. Part 4
+  - Splash Screen
+    - Android automatically does that
+    - iOs using pwa compact
+    

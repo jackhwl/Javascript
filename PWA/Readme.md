@@ -71,3 +71,9 @@
     - Scopes: An origin (host and port) and a path https://mydomain.com or https://mydomain.com/myapp
   - Service work
     - Caching resources
+      - Service worker has a local cache
+      - We can cache all or some resources
+      - Javascript promise
+      - Prefetch on installation
+      - Cache on request
+      - App Shell pattern

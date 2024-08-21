@@ -77,3 +77,6 @@
       - Prefetch on installation
       - Cache on request
       - App Shell pattern
+    - Serving resources
+      - The service worker will respond for every request the PWA make
+      - Shift + reload bypass service work

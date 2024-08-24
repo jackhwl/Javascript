@@ -81,4 +81,6 @@
       - The service worker will respond for every request the PWA make
       - Shift + reload bypass service work
     - Cache Serving Strategies
-      - 
+      - Cache First
+      - Network First
+      - Stale while Revalidate

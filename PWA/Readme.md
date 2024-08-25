@@ -84,3 +84,4 @@
       - Cache First
       - Network First
       - Stale while Revalidate
+        - workbox js

@@ -85,3 +85,21 @@
       - Network First
       - Stale while Revalidate
         - workbox js
+    - Advanced PWA UI techniques
+      - Avoid Content Selection
+        ```
+        * {
+            user-select: none;
+            -webkit-user-select: none;
+        }
+        ```
+      - Safe Areas
+        - Use Safe Areas: With CSS Environmental Variables support through the env() function and four variables
+        ```
+           .container {
+              margin: env(safe-area-inset-top)
+                      env(safe-area-inset-right)
+                      env(safe-area-inset-bottom)
+                      env(safe-area-inset-left);
+           }
+        ```

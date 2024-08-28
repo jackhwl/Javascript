@@ -113,3 +113,11 @@
       - Important
         - Fullscreen oon iOS
         - Pull to Refresh
+        - Idea
+          - Use the new View Transition API to transition between page changes, if you are a SPA or a MPA
+        - Use System Fonts
+        - Reduced Motion
+          - Reduced Motion Media Query
+            - @media (prefers-reduced-motion: reduce) {
+              
+            }

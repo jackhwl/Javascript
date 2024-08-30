@@ -122,3 +122,9 @@
 
             }
         - Use Web Share API
+        - Disable Touch Callout
+        ```
+          a {
+            -webkit-touch-callout: none;
+          }
+        ```

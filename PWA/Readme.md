@@ -116,11 +116,6 @@
         - Idea
           - Use the new View Transition API to transition between page changes, if you are a SPA or a MPA
         - Use System Fonts
-        - Reduced Motion
-          - Reduced Motion Media Query
-            - @media (prefers-reduced-motion: reduce) {
-
-            }
         - Use Web Share API
         - Disable Touch Callout
         ```
@@ -128,3 +123,8 @@
             -webkit-touch-callout: none;
           }
         ```
+        - Reduced Motion
+          - Reduced Motion Media Query
+            - @media (prefers-reduced-motion: reduce) {
+
+            }        

@@ -128,3 +128,5 @@
             - @media (prefers-reduced-motion: reduce) {
 
             }        
+        - Persistent Storage Request
+          - Firefox will ask the user, Chromium will grant or deny based on criteria

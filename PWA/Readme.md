@@ -130,3 +130,5 @@
             }        
         - Persistent Storage Request
           - Firefox will ask the user, Chromium will grant or deny based on criteria
+        - Deploying the App for User Installation
+          - Detect Installation API Availability (Chromium-only)

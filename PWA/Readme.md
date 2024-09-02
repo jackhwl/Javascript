@@ -132,3 +132,15 @@
           - Firefox will ask the user, Chromium will grant or deny based on criteria
         - Deploying the App for User Installation
           - Detect Installation API Availability (Chromium-only)
+          ```
+          window.addEventListener('beforeinstallprompt', event => {
+            track('install', 'available')
+          })
+          ```
+          - Detect Installation (Chromium-only)
+          ```
+          window.addEventListener('appinstalled', event => {
+            track('install', 'installed')
+          })
+          ```
+

@@ -143,4 +143,6 @@
             track('install', 'installed')
           })
           ```
+          - Custom Install Promotion
+          
 

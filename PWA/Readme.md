@@ -144,5 +144,6 @@
           })
           ```
           - Custom Install Promotion
+        - Web App Launcher Package
           
 

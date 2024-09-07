@@ -36,3 +36,6 @@
     - File and Directories (To be deprecated)
     - Cache Storage
       - full response from server
+    - FileSystem Access
+      - need user permission
+      - Origin Private FS

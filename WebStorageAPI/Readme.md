@@ -40,3 +40,5 @@
       - need user permission
       - Origin Private FS
       ![APIs for Browser Data Storage](storage.png)
+  - Data Storage APIs Comparison
+    - ![Data Storage APIs Comparison](<storageCoomparisoon.png>)

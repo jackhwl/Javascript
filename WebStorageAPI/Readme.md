@@ -32,3 +32,4 @@
     - WebSQL (Deprecated)
     - Application Cache (Deprecated)
     - IndexedDB
+    - File and Directories (To be deprecated)

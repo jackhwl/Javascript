@@ -13,3 +13,9 @@
         - amazon.co.uk is an eTLD+1
       - Partitions and Safari
   - Web Client
+    - Browser instance
+    - PWA
+    - Native app using a Web View
+    - Custom Tabs(CT)
+    - SafariViewController
+    - TWA

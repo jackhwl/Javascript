@@ -26,3 +26,6 @@
 ## AIPS for Browser Data Storage
   - State of APIs
     - Cookies
+    - Web Storage (shouldn't using it anymore)
+      - Session Storage
+      - Local Storage

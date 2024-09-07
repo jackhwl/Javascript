@@ -31,7 +31,7 @@
       - Local Storage
     - WebSQL (Deprecated)
     - Application Cache (Deprecated)
-    - IndexedDB
+    - IndexedDB 
       - json object
     - File and Directories (To be deprecated)
     - Cache Storage
@@ -39,3 +39,4 @@
     - FileSystem Access
       - need user permission
       - Origin Private FS
+      ![APIs for Browser Data Storage](storage.png)

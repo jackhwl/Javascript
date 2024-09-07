@@ -19,3 +19,7 @@
     - Custom Tabs(CT)
     - SafariViewController
     - TWA
+  - On native apps, client-side data is contained to that device and it goes to a cloud backup
+  - [On web apps, the world is much more complex](https://youtu.be/nkt5Vz7yIw8?feature=shared)
+    - Navigating to the same origin, and same device, on same OS account in any time in the future* and
+      - the same web client is used

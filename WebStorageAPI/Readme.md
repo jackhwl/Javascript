@@ -25,7 +25,9 @@
       - the same web client is used
 ## AIPS for Browser Data Storage
   - State of APIs
-    - Cookies
-    - Web Storage (shouldn't using it anymore)
+    - Cookies (Not suitable)
+    - Web Storage (shouldn't using it anymore, has Problems, avoid using it)
       - Session Storage
       - Local Storage
+    - WebSQL (Deprecated)
+    

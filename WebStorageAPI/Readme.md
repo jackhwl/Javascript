@@ -30,4 +30,4 @@
       - Session Storage
       - Local Storage
     - WebSQL (Deprecated)
-    
+    - Application Cache (Deprecated)

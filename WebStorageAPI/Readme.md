@@ -8,5 +8,8 @@
       - www prefix
       - country TLDs, such as: amazon.com amazon.ca
       - firt.dev, learn.firt.dev
-      
+      - eTLD+1
+        - co.uk is an eTLD
+        - amazon.co.uk is an eTLD+1
+      - Partitions and Safari
   - Web Client

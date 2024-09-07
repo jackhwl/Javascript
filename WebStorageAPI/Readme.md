@@ -23,3 +23,6 @@
   - [On web apps, the world is much more complex](https://youtu.be/nkt5Vz7yIw8?feature=shared)
     - Navigating to the same origin, and same device, on same OS account in any time in the future* and
       - the same web client is used
+## AIPS for Browser Data Storage
+  - State of APIs
+    - Cookies

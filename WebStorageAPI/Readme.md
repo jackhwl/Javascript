@@ -32,4 +32,7 @@
     - WebSQL (Deprecated)
     - Application Cache (Deprecated)
     - IndexedDB
+      - json object
     - File and Directories (To be deprecated)
+    - Cache Storage
+      - full response from server

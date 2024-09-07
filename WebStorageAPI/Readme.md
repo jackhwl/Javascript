@@ -31,3 +31,4 @@
       - Local Storage
     - WebSQL (Deprecated)
     - Application Cache (Deprecated)
+    - IndexedDB

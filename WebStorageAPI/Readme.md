@@ -43,3 +43,17 @@
   - Data Storage APIs Comparison
     - ![Data Storage APIs Comparison](<storageCoomparisoon.png>)
   - Web Storage
+    - Simple API
+    - Synchronous API
+      - Performance issues
+      - not available on Workers or Service Workers
+    - We should try to avoid using it today
+    - You can emulate them with IndexedDB
+      ```
+      localStorage.setItem("key", "value");
+      const data = localStorage.getItem("key");
+
+      localStorage.removeItem("key");
+      localStorage.clear();
+      ```
+    

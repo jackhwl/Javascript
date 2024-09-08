@@ -56,4 +56,11 @@
       localStorage.removeItem("key");
       localStorage.clear();
       ```
+    - localStorage
+      - It persist data between navigation and browser sessions
+      - Quota is typically 5MB per origin
+      - Strings are stored in UTF-16
+      - At the end, it's around 2.5MB per origin
+
+
     

@@ -61,6 +61,12 @@
       - Quota is typically 5MB per origin
       - Strings are stored in UTF-16
       - At the end, it's around 2.5MB per origin
+    - sessionStorage
+      - It persist data within a browser's session storage
+        - Include page reloads and restores
+        - What's a session on mobile?
+      - Quota is typically tetween 5MB and 12MB
+      
 
 
     

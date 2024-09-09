@@ -66,7 +66,8 @@
         - Include page reloads and restores
         - What's a session on mobile?
       - Quota is typically tetween 5MB and 12MB
-      
+  - Debugging Tools
+    - https://storage-quota.glitch.me/
 
 
     

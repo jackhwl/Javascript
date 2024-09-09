@@ -68,6 +68,23 @@
       - Quota is typically tetween 5MB and 12MB
   - Debugging Tools
     - https://storage-quota.glitch.me/
+  - Quotas & Persistence
+    - Quota includes:
+      - One quota for all storages:
+        - All the data from APIs:
+          - Local storage
+          - IndexedDB
+          - Cache Storage
+          - FileSystem(Origin Private FS)
+        - Service Worker registrations
+        - Web App Manifests from installed PWAs
+    - Quota does not include:
+      - Cookies
+      - Files cached by the browser
+      - Session Storage
+      - Files created with the FileSystem Access API (on the real FS)
+
+
 
 
     

@@ -87,7 +87,8 @@
       - Chromium： 60% of total disk space per origin
       - Firefox： 50% of total disk space with a maximum of 2GB per group （eTLD+1）
       - Safari： 1GB per partition with increments of 200Mb with user's permission
-      
+      - http://www.filldisk.com/
+      - Storage per origin can be defined as: Best Effort / Persistent
 
 
 

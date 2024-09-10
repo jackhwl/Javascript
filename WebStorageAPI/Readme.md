@@ -89,7 +89,17 @@
       - Safari： 1GB per partition with increments of 200Mb with user's permission
       - http://www.filldisk.com/
       - Storage per origin can be defined as: Best Effort / Persistent
-
+  - Persistent Storage Request
+    ```
+    if (navigator.storage && navigator.storage.persist) {
+        const granted = await navigator.storage.persist();
+        track('storage-persist-request', granted);
+    }
+    if (navigator.storage && navigator.storage.persist) {
+        const isPersisted = await navigator.storage.persisted();
+        track('storage-persisted', isPersisted);
+    }
+    ```
 
 
     

@@ -100,6 +100,7 @@
         track('storage-persisted', isPersisted);
     }
     ```
-
+## Web Storage
+  - State of Browser APIs
 
     
